@@ -1,0 +1,56 @@
+h1
+{
+	text-decoration: underline;
+	color: red;
+	font-family: optima;
+}
+
+h2
+{
+	text-decoration: underline;
+	color: blue;
+	font-weight: bold;
+}
+
+.exemple
+{
+	color: green;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.definition
+{
+	color: blue;
+}
+
+.deftitre
+{
+	color: blue;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.propriete
+{
+	color: red;
+}
+
+.protitre
+{
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+.bilan
+{
+	color: purple;
+	text-decoration: underline;
+	font-weight: bold;
+}
+
+.nav
+{
+	float: right;
+}

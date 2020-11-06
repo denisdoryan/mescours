@@ -1,0 +1,140 @@
+header
+{
+	color: red;
+	text-align: center;
+	border: 3px black solid;
+	border-radius: 10px;
+	text-decoration: underline;
+}
+
+h2
+{
+	text-decoration: underline;
+	color: darkslategrey;
+}
+
+
+#boutton 
+{
+    width: 17em;
+    border-right: 0px solid #000;
+    padding: 0 0 0 0;
+    margin-bottom: 1em;
+    font-family: 'Trebuchet MS', 'Lucida Grande',
+       Verdana, Lucida, Geneva, Helvetica,
+       Arial, sans-serif;
+}
+
+#boutton ul 
+{
+    list-style: none;
+    margin:0;
+   padding:0;
+    border: none;
+}
+
+#boutton li 
+{
+    border-bottom: 1px solid #90bade;
+    margin: 0;
+}
+
+#boutton li a 
+{
+    display: block;
+    padding: 5px 5px 5px 0.5em;
+    border-left: 10px solid #1958b7;
+    border-right: 10px solid #508fc4;
+    background-color: #2175bc;
+    color: #fff;
+    text-decoration: none;
+    width:100%;
+}
+
+html>body#boutton li a 
+{
+    width: auto;
+}
+
+#boutton li a:hover 
+{
+    border-left: 10pxsolid #1c64d1;
+    border-right: 10px solid #5ba3e0;
+    background-color: #2586d7;
+    color: #fff;
+}
+
+.francais
+{
+	color: red;
+}
+
+.maths
+{
+	color: cornflowerblue;
+}
+
+.higeo
+{
+	color: purple;
+} 
+
+.spc
+{
+	color: aquamarine;
+}
+
+.svt
+{
+	color: chartreuse;
+}
+
+.anglais
+{
+	color: gold;
+}
+
+.espagnol
+{
+	color: orange;
+}
+
+.ses
+{
+	color: pink;
+}
+
+.snt
+{
+	color: lightsteelblue;
+}
+
+.scing
+{
+	color: grey;
+}
+
+.crel
+{
+	color: peachpuff;
+}
+
+html
+{
+	margin: 0;
+	padding: 0;
+	background-size: cover;
+	-webkit-background-size: cover;
+	background: url("ismfacade.jpg") no-repeat center fixed;
+}
+
+#logo
+{
+	position:absolute;
+    bottom:0;
+    right:0;
+    width:180px;
+    height:180px;
+    margin:10px 0px 0px 20px;
+    padding:0px;
+}
