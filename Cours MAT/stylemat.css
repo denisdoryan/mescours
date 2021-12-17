@@ -34,6 +34,66 @@ html
   background: url("fondMAT.jpg") no-repeat center fixed;
 }
 
+.bouton1 {
+  border-radius:12px 0 12px 0;
+  background: #478bf9;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 200px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton2 {
+  border-radius:12px 0 12px 0;
+  background: #478bf9;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 170px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton3 {
+  border-radius:12px 0 12px 0;
+  background: #478bf9;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 190px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton4 {
+  border-radius:12px 0 12px 0;
+  background: #478bf9;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 150px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton5 {
+  border-radius:12px 0 12px 0;
+  background: #478bf9;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 250px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
 .bouton6 {
   border-radius:12px 0 12px 0;
   background: #478bf9;
@@ -41,7 +101,7 @@ html
   color:#fff;
   font:bold 12px Verdana;
   padding:6px 0 6px 0;
-  width: 450px;
+  width: 200px;
   border-bottom: 2px solid #90bade;
   margin: 0;
 }
@@ -53,7 +113,31 @@ html
   color:#fff;
   font:bold 12px Verdana;
   padding:6px 0 6px 0;
-  width: 130px;
+  width: 90px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton8 {
+  border-radius:12px 0 12px 0;
+  background: #478bf9;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 170px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton9 {
+  border-radius:12px 0 12px 0;
+  background: #478bf9;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 350px;
   border-bottom: 2px solid #90bade;
   margin: 0;
 }
