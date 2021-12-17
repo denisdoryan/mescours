@@ -41,7 +41,7 @@ html
   color:#fff;
   font:bold 12px Verdana;
   padding:6px 0 6px 0;
-  width: 450px;
+  width: 120px;
   border-bottom: 2px solid #90bade;
   margin: 0;
 }
@@ -53,7 +53,91 @@ html
   color:#fff;
   font:bold 12px Verdana;
   padding:6px 0 6px 0;
-  width: 450px;
+  width: 120px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton3 {
+  border-radius:12px 0 12px 0;
+  background: #5AFFCD;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 430px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton4 {
+  border-radius:12px 0 12px 0;
+  background: #5AFFCD;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 430px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton5 {
+  border-radius:12px 0 12px 0;
+  background: #5AFFCD;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 120px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton6 {
+  border-radius:12px 0 12px 0;
+  background: #5AFFCD;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 100px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton7 {
+  border-radius:12px 0 12px 0;
+  background: #5AFFCD;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 350px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton8 {
+  border-radius:12px 0 12px 0;
+  background: #5AFFCD;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 90px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton9 {
+  border-radius:12px 0 12px 0;
+  background: #5AFFCD;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 350px;
   border-bottom: 2px solid #90bade;
   margin: 0;
 }
