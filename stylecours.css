@@ -64,9 +64,9 @@ html>body#boutton li a
     color: #fff;
 }
 
-.francais
+.philo
 {
-	color: red;
+	color: firebrick;
 }
 
 .maths
@@ -84,40 +84,6 @@ html>body#boutton li a
 	color: aquamarine;
 }
 
-.svt
-{
-	color: chartreuse;
-}
-
-.anglais
-{
-	color: gold;
-}
-
-.espagnol
-{
-	color: orange;
-}
-
-.ses
-{
-	color: pink;
-}
-
-.snt
-{
-	color: lightsteelblue;
-}
-
-.scing
-{
-	color: grey;
-}
-
-.crel
-{
-	color: peachpuff;
-}
 
 html
 {
