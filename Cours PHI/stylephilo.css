@@ -33,3 +33,27 @@ html
   -webkit-background-size: cover;
   background: url("fondphilo.jpeg") no-repeat center fixed;
 }
+
+.bouton1 {
+  border-radius:12px 0 12px 0;
+  background: #FF6060;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 100px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton2 {
+  border-radius:12px 0 12px 0;
+  background: #FF6060;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 100px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
