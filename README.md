@@ -1,3 +1,3 @@
 # mescourstle
-Ceci est un projet de NSI fait en Seconde où j'ai commencé à répertorier mes cours dans différentes matières, je le publie donc maintenant.
+Site où sont répertoriés tous mes cours de Terminale pour les matières majeures.
 https://denisdoryan.github.io/mescourstle/
