@@ -297,3 +297,27 @@ html
   border-bottom: 2px solid #90bade;
   margin: 0;
 }
+
+.boutonadultes {
+  border-radius:12px 0 12px 0;
+  background: #0461AF;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 270px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutonsujetsbac {
+  border-radius:12px 0 12px 0;
+  background: #0461AF;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 220px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
