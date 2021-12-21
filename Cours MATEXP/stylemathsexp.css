@@ -31,7 +31,7 @@ html
   padding: 0;
   background-size: cover;
   -webkit-background-size: cover;
-  background: url("fondMATEXP.jpg") no-repeat center fixed;
+  background: url("fondMATEXP.png") no-repeat center fixed;
 }
 
 .bouton1 {
