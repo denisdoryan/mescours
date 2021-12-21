@@ -1,0 +1,107 @@
+h1
+{
+	color: darkturquoise;
+	font-family: Trebuchet MS;
+  position: relative;
+  background-color: #FFC;
+  padding: 2rem;
+  text-align: center;
+  max-width: 250px;
+  text-decoration: underline;
+}
+
+h1::before {
+  content: "";
+
+  position : absolute;
+  z-index  : -1;
+  bottom   : 15px;
+  right    : 5px;
+  width    : 50%;
+  top      : 80%;
+  max-width: 150px;
+
+  box-shadow: 0px 13px 10px black;
+  transform: rotate(4deg);
+}
+
+html
+{
+  margin: 0;
+  padding: 0;
+  background-size: cover;
+  -webkit-background-size: cover;
+  background: url("fondMATEXP.jpg") no-repeat center fixed;
+}
+
+.bouton1 {
+  border-radius:12px 0 12px 0;
+  background: #23E1F7;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 300px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton2 {
+  border-radius:12px 0 12px 0;
+  background: #23E1F7;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 300px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton3 {
+  border-radius:12px 0 12px 0;
+  background: #23E1F7;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 200px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutone1 {
+  border-radius:12px 0 12px 0;
+  background: #00C0D6;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 330px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutone2 {
+  border-radius:12px 0 12px 0;
+  background: #00C0D6;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 300px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutonmanuel {
+  border-radius:12px 0 12px 0;
+  background: #79EAF7;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 170px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
