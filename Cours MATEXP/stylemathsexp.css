@@ -70,6 +70,66 @@ html
   margin: 0;
 }
 
+.boutond1 {
+  border-radius:12px 0 12px 0;
+  background: #2EB7BD;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 220px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutond2 {
+  border-radius:12px 0 12px 0;
+  background: #2EB7BD;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 250px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutond3 {
+  border-radius:12px 0 12px 0;
+  background: #2EB7BD;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 250px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutond4 {
+  border-radius:12px 0 12px 0;
+  background: #2EB7BD;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 150px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutond5 {
+  border-radius:12px 0 12px 0;
+  background: #2EB7BD;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 150px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
 .boutone1 {
   border-radius:12px 0 12px 0;
   background: #00C0D6;
