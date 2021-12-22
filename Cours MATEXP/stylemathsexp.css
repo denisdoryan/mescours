@@ -105,3 +105,15 @@ html
   border-bottom: 2px solid #90bade;
   margin: 0;
 }
+
+.boutonadultes {
+  border-radius:12px 0 12px 0;
+  background: #79EAF7;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 200px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
