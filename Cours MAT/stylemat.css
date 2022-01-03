@@ -286,6 +286,30 @@ html
   margin: 0;
 }
 
+.boutone13 {
+  border-radius:12px 0 12px 0;
+  background: #7EC1F9;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 150px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutone14 {
+  border-radius:12px 0 12px 0;
+  background: #7EC1F9;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 150px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
 .boutonmanuel {
   border-radius:12px 0 12px 0;
   background: #0461AF;
