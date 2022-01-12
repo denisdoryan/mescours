@@ -41,7 +41,7 @@ html
   color:#fff;
   font:bold 12px Verdana;
   padding:6px 0 6px 0;
-  width: 100px;
+  width: 90px;
   border-bottom: 2px solid #90bade;
   margin: 0;
 }
@@ -49,6 +49,66 @@ html
 .bouton2 {
   border-radius:12px 0 12px 0;
   background: #FF6060;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 90px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton3 {
+  border-radius:12px 0 12px 0;
+  background: #FF6060;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 100px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton4 {
+  border-radius:12px 0 12px 0;
+  background: #FF6060;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 110px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton5 {
+  border-radius:12px 0 12px 0;
+  background: #FF6060;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 110px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton6 {
+  border-radius:12px 0 12px 0;
+  background: #FF6060;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 90px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutonmanuel {
+  border-radius:12px 0 12px 0;
+  background: #FA8383;
   border:none;
   color:#fff;
   font:bold 12px Verdana;
