@@ -293,7 +293,7 @@ html
   color:#fff;
   font:bold 12px Verdana;
   padding:6px 0 6px 0;
-  width: 180px;
+  width: 140px;
   border-bottom: 2px solid #90bade;
   margin: 0;
 }
@@ -305,7 +305,7 @@ html
   color:#fff;
   font:bold 12px Verdana;
   padding:6px 0 6px 0;
-  width: 150px;
+  width: 110px;
   border-bottom: 2px solid #90bade;
   margin: 0;
 }
@@ -317,12 +317,36 @@ html
   color:#fff;
   font:bold 12px Verdana;
   padding:6px 0 6px 0;
-  width: 150px;
+  width: 180px;
   border-bottom: 2px solid #90bade;
   margin: 0;
 }
 
 .boutone15 {
+  border-radius:12px 0 12px 0;
+  background: #7EC1F9;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 150px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutone16 {
+  border-radius:12px 0 12px 0;
+  background: #7EC1F9;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 150px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutone17 {
   border-radius:12px 0 12px 0;
   background: #7EC1F9;
   border:none;
