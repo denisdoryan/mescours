@@ -31,7 +31,7 @@ html
   padding: 0;
   background-size: cover;
   -webkit-background-size: cover;
-  background: url("fondENS.jpg") no-repeat center fixed;
+  background: url("fondENS.jpeg") no-repeat center fixed;
 }
 
 .bouton1 {
