@@ -70,6 +70,42 @@ html
   margin: 0;
 }
 
+.bouton4 {
+  border-radius:12px 0 12px 0;
+  background: #23E1F7;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 300px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton5 {
+  border-radius:12px 0 12px 0;
+  background: #23E1F7;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 290px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.bouton6 {
+  border-radius:12px 0 12px 0;
+  background: #23E1F7;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 170px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
 .boutond1 {
   border-radius:12px 0 12px 0;
   background: #2EB7BD;
