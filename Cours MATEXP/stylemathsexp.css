@@ -190,6 +190,30 @@ html
   margin: 0;
 }
 
+.boutone3 {
+  border-radius:12px 0 12px 0;
+  background: #00C0D6;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 170px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
+.boutone4 {
+  border-radius:12px 0 12px 0;
+  background: #00C0D6;
+  border:none;
+  color:#fff;
+  font:bold 12px Verdana;
+  padding:6px 0 6px 0;
+  width: 190px;
+  border-bottom: 2px solid #90bade;
+  margin: 0;
+}
+
 .boutonmanuel {
   border-radius:12px 0 12px 0;
   background: #79EAF7;
