@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Accès protégé"
+AuthUserFile /usr/home/votre_nom_d_utilisateur/www/.htpasswd
+require valid-user
